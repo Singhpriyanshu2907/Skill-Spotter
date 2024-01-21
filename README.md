@@ -19,12 +19,13 @@ Click "Submit" to receive personalized insights.
 Optimize your hiring process with intelligent recommendations.
 
 ## Requirements:
-Python
-Streamlit
-spaCy
-Google Generative AI API
-Other dependencies (specified in requirements.txt)
-Deployment:
+Python,
+Streamlit,
+spaCy,
+Google Generative AI API,
+Other dependencies (specified in requirements.txt),
+
+## Deployment:
 Deployed on Hugging Face Spaces.
 
 ## Contributing:
