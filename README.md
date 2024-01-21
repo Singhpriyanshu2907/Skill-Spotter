@@ -20,6 +20,7 @@ Optimize your hiring process with intelligent recommendations.
 
 ## Requirements:
 Python,
+LLM (Gemini-Pro) Model
 Streamlit,
 spaCy,
 Google Generative AI API,
