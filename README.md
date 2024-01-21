@@ -35,4 +35,4 @@ Contributions are welcome! Please feel free to open issues or submit pull reques
 ## License:
 This project is licensed under the MIT License.
 
-🌟 Make smarter hiring decisions with SmartRecruit ATS! 🌟
+🌟 Make smarter hiring decisions with Skill-Spotter ATS! 🌟
